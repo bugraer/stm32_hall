@@ -1,3 +1,6 @@
+sinüzodial dalga al stm32
+
+
 # stm32_hall
 https://www.ozdisan.com/tft-lcd-led-displayler/lcd/oled-lcd/WEO012864DWPP3N00006
 
