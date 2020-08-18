@@ -8,3 +8,8 @@ https://github.com/MYaqoobEmbedded/STM32-Tutorials/blob/master/Tutorial%2033%20-
 http://hackist.jp/?p=8361
 
 http://the-nw1-group.github.io/acb-modules/acb-4tc.html
+
+
+https://www.programmersought.com/article/55792255154/ //111111111111111111111111111111111111111111111111111111111111111111111
+
+https://www.st.com/en/applications/industrial-motor-control/3-phase-6-step-control.html
