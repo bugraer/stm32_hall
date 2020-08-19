@@ -19,3 +19,5 @@ http://www.elektrobot.net/stm32-adc-kullanimi-polling-interrupt-ve-dma/
 https://www.st.com/en/applications/industrial-motor-control/3-phase-6-step-control.html
 
 https://www.programmersought.com/article/4567868390/
+
+https://hasanyavuz.ozderya.net/?p=437
